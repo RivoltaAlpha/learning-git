@@ -1,1 +1,3 @@
 learning git and github
+learning git cherry-pick, squash, diff, revert
+ 
